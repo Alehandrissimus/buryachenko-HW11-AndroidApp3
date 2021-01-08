@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">buryachenko-HW11-AndroidApp3</string>
+    <string name="show_bottomsheetdialogfragment">Show BottomSheetDialogFragment</string>
+    <string name="show_xml_bottomsheet">Show xml BottomSheet</string>
+    <string name="show_dialogfragment">Show DialogFragment</string>
+    <string name="show_alertdialog">Show AlertDialog</string>
+    <string name="main_activity">Main Activity</string>
+</resources>
